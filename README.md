@@ -1,9 +1,5 @@
 <p align="center"><h1 align="center">Good time of the day, says an introvert uzbek Software enginer a.k.a Rustamjonov! 🖤🏴</h1></p>
 
-<a href="https://rustamjonov.uz">
-    <img src="https://rustamjonov.uz/banner.png" width="100%" alt="A banner that says rustamjonov - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
-</a>
-
 ---
 
 <b>I'm a Software enginer who is passionate about making open-source
