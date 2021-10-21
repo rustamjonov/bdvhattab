@@ -7,7 +7,7 @@ more accessible, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include JavaScript, Python and C/C++. 
 I recently created my own linux distro with open source project repo
 launched. My interest in the leadership led me to launch team
-<a href="https://timeetech.uz/">TIMETECH™</a>, a community for various type of developers
+<a href="https://timetech.uz/">TIMETECH™</a>, a community for various type of developers
 where they exchange & sharpen their experiences.</b>
 
 ---
