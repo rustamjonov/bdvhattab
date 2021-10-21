@@ -1,17 +1,17 @@
-<p align="center"><h1 align="center">Good time of the day, says an introvert uzbek senior developer a.k.a Genemator! 🖤🏴</h1></p>
+<p align="center"><h1 align="center">Good time of the day, says an introvert uzbek Software enginer a.k.a Rustamjonov! 🖤🏴</h1></p>
 
-<a href="https://genemator.uz">
-    <img src="https://rustamjonov.uz/banner.png" width="100%" alt="A banner that says Genemator - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
+<a href="https://rustamjonov.uz">
+    <img src="https://rustamjonov.uz/banner.png" width="100%" alt="A banner that says rustamjonov - senior full stack developer... content creator and community organizer alongside a cartoon illustration of Geno Ferollo">
 </a>
 
 ---
 
-<b>I'm a full stack senior developer who is passionate about making open-source
+<b>I'm a Software enginer who is passionate about making open-source
 more accessible, creating technology to elevate people, and building community.
-Some technologies I enjoy working with include JavaScript, Flutter, C/C++ and
-Python. I recently created my own linux distro with open source project repo
+Some technologies I enjoy working with include JavaScript, Python and C/C++. 
+I recently created my own linux distro with open source project repo
 launched. My interest in the leadership led me to launch team
-<a href="https://bsba.uz/">BSBA™</a>, a community for various type of developers
+<a href="https://timeetech.uz/">TIMETECH™</a>, a community for various type of developers
 where they exchange & sharpen their experiences.</b>
 
 ---
@@ -23,7 +23,7 @@ where they exchange & sharpen their experiences.</b>
   Instagram</a> 📷
 - Sharing updates on <a href="https://www.t.me/diyorbekrustamjonov">Telegram</a> 🤙🏻
 - Listening to Yandex Music playlist made by myself
-  <a href="https://music.yandex.ru/users/ferollo/playlists/1019?lang=en">"Genemator's
+  <a href="https://music.yandex.ru/users/ferollo/playlists/1019?lang=en">"Rustamjonov's
   Choice"</a> 🎵
 
 
@@ -58,44 +58,19 @@ where they exchange & sharpen their experiences.</b>
   <br />
 
 <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#4](https://github.com/genemators/genos/pull/4) in [genemators/genos](https://github.com/genemators/genos)
-2. ❌ Closed PR [#2](https://github.com/genemators/genos/pull/2) in [genemators/genos](https://github.com/genemators/genos)
-3. ❌ Closed PR [#12](https://github.com/mad-maids/maid.table/pull/12) in [mad-maids/maid.table](https://github.com/mad-maids/maid.table)
-4. ❌ Closed PR [#2](https://github.com/mad-maids/maid.hub/pull/2) in [mad-maids/maid.hub](https://github.com/mad-maids/maid.hub)
-5. ❌ Closed PR [#1](https://github.com/mad-maids/maid.hub/pull/1) in [mad-maids/maid.hub](https://github.com/mad-maids/maid.hub)
-   [genemators/genemators](https://github.com/genemators/genemators)
-4. ❌ Closed PR [#5](https://github.com/genemators/genemators/pull/5) in
-   [genemators/genemators](https://github.com/genemators/genemators)
-5. ❌ Closed PR [#4](https://github.com/genemators/genemators/pull/4) in
-   [genemators/genemators](https://github.com/genemators/genemators)
-6. ❌ Closed PR [#5](https://github.com/genemators/genemators/pull/5) in
-   [genemators/genemators](https://github.com/genemators/genemators)
-7. 🗣 Commented on [#1](https://github.com/xinuxuz/docs/issues/1) in
-   [xinuxuz/docs](https://github.com/xinuxuz/docs)
-   [xinuxuz/comments](https://github.com/xinuxuz/comments)
-8. ❗️ Closed issue [#1](https://github.com/xinuxuz/comments/issues/1) in
-   [xinuxuz/comments](https://github.com/xinuxuz/comments)
-9. ❗️ Opened issue [#2](https://github.com/xinuxuz/comments/issues/2) in
-   [xinuxuz/comments](https://github.com/xinuxuz/comments)
-   [genemators/autorizator](https://github.com/genemators/autorizator)
-10. 🗣 Commented on [#1](https://github.com/genemators/autorizator/issues/1) in
-[genemators/autorizator](https://github.com/genemators/autorizator)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
-  <summary>⚜ Genemator's github stats</summary>
+  <summary>⚜ Rustamjonov's github stats</summary>
   
   <br />
 
   <a href="#">
-    <img align="center" alt="Genemator's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=genemators&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Rustamjonov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=genemators&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 
   <a href="#">
-    <img align="center" alt="Genemator's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genemators&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Rustamjonov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genemators&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 
 </details>
@@ -103,33 +78,19 @@ where they exchange & sharpen their experiences.</b>
 <details>
     <summary>💾 List of used operation systems</summary>
     <br />
-    <p align="center"><h3 align="center">Nordic Nordissimo (Windows 10) Modified by Genemator</h3></p>
+    <p align="center"><h3 align="center">Nordic Nordissimo (Windows 10) Modified by Rustamjonov</h3></p>
     <img align="center" alt="Nordic Nordissimo" src="https://genemator.uz/os/nordissimo.jpg" />
     <br />
     <br />
-    <p align="center"><h3 align="center">Starfighter Synthwave (Arch Linux on KDE) Riced by Genemator</h3></p>
+    <p align="center"><h3 align="center">Starfighter Synthwave (Arch Linux on KDE) Riced by Rustamjonov</h3></p>
     <img align="center" alt="Starfighter Synthwave" src="https://genemator.uz/os/synthwave.jpg" />
 </details>
 
-<details>
-    <summary>🖤 The best waifu all time!</summary>
-    <br />
-    <p align="center"><h3 align="center">SPEEDWAGOOOOON!!!</h3></p>
-    <a href="https://jojo.fandom.com/wiki/Robert_E._O._Speedwagon"><img align="center" alt="Robert E. O. Speedwagon" src="https://genemator.uz/icons/speedwagon.jpg" /></a>
-    <br />
-</details>
+
+<p align="center"><h3 align="center"><img alt="Darth Vader" width="20px" src="./techs/vader.svg">Rustamjonov.uz<img alt="Darth Vader" width="20px" src="./techs/vader.svg"></h3></p>
 
 
-<p align="center"><h3 align="center"><img alt="Darth Vader" width="20px" src="./techs/vader.svg"> 
-─────█─▄▀█──█▀▄─█─────
-────▐▌──────────▐▌────
-────█▌▀▄──▄▄──▄▀▐█────
-───▐██──▀▀──▀▀──██▌───
-──▄████▄──▐▌──▄████▄──
-<img alt="Darth Vader" width="20px" src="./techs/vader.svg"></h3></p>
-
-
-<p align="center"><a href="https://genemator.uz" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgenemators&count_bg=%23000000&title_bg=%23000000&icon=jenkins.svg&icon_color=%23FFFFFF&title=Genemator%27s+Viewers&edge_flat=true" alt="Genemator's Hits & Visitors Counter"></a></p>
+<p align="center"><a href="https://Rustamjonov.uz" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgenemators&count_bg=%23000000&title_bg=%23000000&icon=jenkins.svg&icon_color=%23FFFFFF&title=Genemator%27s+Viewers&edge_flat=true" alt="Rustamjonov's Hits & Visitors Counter"></a></p>
 
 ---
 
